@@ -1,0 +1,14 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
